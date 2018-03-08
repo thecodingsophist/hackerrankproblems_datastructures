@@ -1,6 +1,3 @@
-$ cat .gitattributes
-*.rb linguist-language=Java
-
 import java.io.*;
 import java.util.*;
 
